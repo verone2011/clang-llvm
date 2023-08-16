@@ -1,0 +1,23 @@
+[date]
+16 August 2023
+
+[clang-ver]
+greenforce clang version 18.0.0 (https://github.com/llvm/llvm-project 51eaee3b42f057fc2cc3fae7ec71d44fa1b82057)
+
+[llvm-commit]
+https://github.com/llvm/llvm-project/commit/51eaee3b4
+
+[llvm-commit-msg]
+[mlir][SparseTensor] Fix test regression
+
+[binutils-ver]
+2.41
+
+[host-glibc]
+2.35
+
+[size]
+546M
+
+[shasum]
+84fa94cdeca6f9595d3662e43dafe61fa379a0819d5c38f6e4ae785c39676e90
