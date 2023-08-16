@@ -1,6 +1,18 @@
 # Greenforce Clang
 
-## Host compatibility
+You can see information regarding the latest greenforce clang build in `clang-18.0.0-16082023-1643-info.txt`, the latest build is at `16082023` tag (see `latest.txt`). To use greenforce clang you can download it directly from the GitHub releases, or you can follow the simple command below:
+
+```bash
+# Create greenforce clang folder
+mkdir -p "$HOME/toolchains/greenforce-clang";
+
+# Create folder environment (optional)
+GREENFORCE_DIR="$HOME/toolchains/greenforce-clang";
+
+# Download and extract to folder
+wget -c https://github.com/greenforce-project/clang-llvm/releases/download/16082023/greenforce-clang-18.0.0-16082023-1643.tar.gz -O - | tar -xz -C "${GREENFORCE_DIR}"
+
+```
 
 ## Host compatibility
 
@@ -12,7 +24,7 @@ Make sure you have this toolchain in your `PATH`:
 
 ```bash
 
-export PATH="$HOME/toolchains/clang-llvm/bin:$PATH"
+export PATH="$HOME/toolchains/greenforce-clang/bin:$PATH"
 
 ```
 
