@@ -1,0 +1,23 @@
+[date]
+17 August 2023
+
+[clang-ver]
+greenforce clang version 12.0.1 (https://github.com/llvm/llvm-project fed41342a82f5a3a9201819a82bf7a48313e296b)
+
+[llvm-commit]
+https://github.com/llvm/llvm-project/commit/fed41342a8
+
+[llvm-commit-msg]
+Revert "Revert "[Coverage] Fix branch coverage merging in FunctionCoverageSummary::get() for instantiation""
+
+[binutils-ver]
+2.41
+
+[host-glibc]
+2.35
+
+[size]
+399M
+
+[shasum]
+2a09b7675103f1821a48f38c54e84efe129d0ad378dd9d00b52824c16b6e0e3e
