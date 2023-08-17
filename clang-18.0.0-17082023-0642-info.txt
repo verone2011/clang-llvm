@@ -1,0 +1,23 @@
+[date]
+17 August 2023
+
+[clang-ver]
+18.0.0
+
+[llvm-commit]
+https://github.com/llvm/llvm-project/commit/13bbca8d6
+
+[llvm-commit-msg]
+[libc] [NFC] explain compiler macros in limits.h
+
+[binutils-ver]
+2.41
+
+[host-glibc]
+2.35
+
+[size]
+545M
+
+[shasum]
+096265b501acc8c9a7f34d8d188813946a1442d7c15efc85bd0ffc2b2a5d915c

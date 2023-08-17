@@ -1,8 +1,9 @@
 # Greenforce Clang
 
-You can see information regarding the latest greenforce clang build in `clang-18.0.0-16082023-1643-info.txt`, the latest build is at `16082023` tag (see `latest.txt`). To use greenforce clang you can download it directly from the GitHub releases, or you can follow the simple command below:
+You can see information regarding the latest greenforce clang build in clang-18.0.0-17082023-0642-info.txt, the latest tag is 17082023 (see latest.txt). To use greenforce clang you can download it directly from the git releases, or you can follow the simple command below:
 
 ```bash
+
 # Create greenforce clang folder
 mkdir -p "$HOME/toolchains/greenforce-clang";
 
@@ -10,7 +11,7 @@ mkdir -p "$HOME/toolchains/greenforce-clang";
 GREENFORCE_DIR="$HOME/toolchains/greenforce-clang";
 
 # Download and extract to folder
-wget -c https://github.com/greenforce-project/clang-llvm/releases/download/16082023/greenforce-clang-18.0.0-16082023-1643.tar.gz -O - | tar -xz -C "${GREENFORCE_DIR}"
+wget -c https://github.com/greenforce-project/clang-llvm/releases/download/17082023/greenforce-clang-18.0.0-17082023-0642.tar.gz -O - | tar -xz -C 
 
 ```
 
@@ -24,7 +25,7 @@ Make sure you have this toolchain in your `PATH`:
 
 ```bash
 
-export PATH="$HOME/toolchains/greenforce-clang/bin:$PATH"
+export PATH="$HOME/toolchains/clang-llvm/bin:$PATH"
 
 ```
 
