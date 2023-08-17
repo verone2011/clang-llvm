@@ -1,0 +1,23 @@
+[date]
+17 August 2023
+
+[clang-ver]
+greenforce clang version 18.0.0 (https://github.com/llvm/llvm-project 8dce4c56dd760b34b222d3188a0fe26232928406)
+
+[llvm-commit]
+https://github.com/llvm/llvm-project/commit/8dce4c56d
+
+[llvm-commit-msg]
+[Inliner] Handle convergence control when inlining a call
+
+[binutils-ver]
+2.41
+
+[host-glibc]
+2.35
+
+[size]
+545M
+
+[shasum]
+d6cf912bcb9b19b7d080f4e5a8ac1973333d5a6f4cdf27027984bbba08fcd527
