@@ -1,0 +1,23 @@
+[date]
+19 August 2023
+
+[clang-ver]
+greenforce clang version 18.0.0 (https://github.com/llvm/llvm-project 18f5ada24453491f33c0f23eb4eac08e84be72e6)
+
+[llvm-commit]
+https://github.com/llvm/llvm-project/commit/18f5ada24
+
+[llvm-commit-msg]
+[DAGCombiner] Don't reduce BUILD_VECTOR to BITCAST before LegalizeTypes if VT is legal.
+
+[binutils-ver]
+2.41
+
+[host-glibc]
+2.35
+
+[size]
+546M
+
+[shasum]
+80594b77fb07d21302604479eb95a69202ccc17aee38161201516581f62f6946

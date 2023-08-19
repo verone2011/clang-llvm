@@ -1,6 +1,6 @@
 # Greenforce Clang
 
-You can see information regarding the latest greenforce clang build in clang-12.0.1-17082023-2226-info.txt, the latest tag is 17082023 (see latest.txt). To use greenforce clang you can download it directly from the git releases, or you can follow the simple command below:
+You can see information regarding the latest greenforce clang build in clang-18.0.0-19082023-1210-info.txt, the latest tag is 19082023 (see latest.txt). To use greenforce clang you can download it directly from the git releases, or you can follow the simple command below:
 
 ```bash
 
@@ -11,13 +11,13 @@ mkdir -p "$HOME/toolchains/greenforce-clang";
 GREENFORCE_DIR="$HOME/toolchains/greenforce-clang";
 
 # Download and extract to folder
-wget -c https://github.com/greenforce-project/clang-llvm/releases/download/17082023/greenforce-clang-12.0.1-17082023-2226.tar.gz -O - | tar -xz -C GREENFORCE_DIR
+wget -c https://github.com/greenforce-project/clang-llvm/releases/download/19082023/greenforce-clang-18.0.0-19082023-1210.tar.gz -O - | tar -xz -C GREENFORCE_DIR
 
 ```
 
 ## Host compatibility
 
-This toolchain is built on Ubuntu 22.04.2 LTS, which uses glibc 2.35. Compatibility with older distributions cannot be guaranteed. Other libc implementations (such as musl) are not supported.
+This toolchain is built on Ubuntu 22.04.3 LTS, which uses glibc 2.35. Compatibility with older distributions cannot be guaranteed. Other libc implementations (such as musl) are not supported.
 
 ## Building Linux
 
