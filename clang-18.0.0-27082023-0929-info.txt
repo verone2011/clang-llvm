@@ -1,0 +1,23 @@
+[date]
+27 August 2023
+
+[clang-ver]
+greenforce clang version 18.0.0
+
+[llvm-commit]
+https://github.com/fadlyas07/llvm-project/commit/ae85b02c6
+
+[llvm-commit-msg]
+Merge pull request #100 from llvm/main
+
+[binutils-ver]
+2.41
+
+[host-glibc]
+2.35
+
+[size]
+547M
+
+[shasum]
+1231c075e0f2209dd41688636ebd13314472b4532144d80df90251aced878179
