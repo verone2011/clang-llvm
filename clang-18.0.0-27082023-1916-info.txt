@@ -1,0 +1,23 @@
+[date]
+27 August 2023
+
+[clang-ver]
+greenforce clang version 18.0.0 (https://github.com/llvm/llvm-project cbdc3e1bf9da09911ba353bcd20c6709bda43893)
+
+[llvm-commit]
+https://github.com/llvm/llvm-project/commit/cbdc3e1bf
+
+[llvm-commit-msg]
+[clang-tidy][NFC] Fix cppcoreguidelines-init-variables findings
+
+[binutils-ver]
+2.41
+
+[host-glibc]
+2.35
+
+[size]
+547M
+
+[shasum]
+d00b06910fa0c2df704d2f17648ce66c464e6a71e98cbd0e48a096775779604b
