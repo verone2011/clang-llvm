@@ -1,0 +1,24 @@
+[date]
+3 September 2023
+
+[clang-ver]
+greenforce clang version 18.0.0 (https://github.com/llvm/llvm-project 701e6f7630474b637e0bc45d009bf2ec47f2d3fd)
+
+[llvm-commit]
+https://github.com/llvm/llvm-project/commit/701e6f763
+
+[llvm-commit-msg]
+[libc][fix] Fix buffer overrun in initialization of GPU return value
+
+[binutils-ver]
+2.41
+2.41.tar.xz
+
+[host-glibc]
+2.35
+
+[size]
+576M
+
+[shasum]
+a729ada97e7c0dbca54f395096e0acef9335b25c1ee4b6a074ea68323932362b
