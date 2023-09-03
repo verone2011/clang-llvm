@@ -1,0 +1,24 @@
+[date]
+3 September 2023
+
+[clang-ver]
+greenforce clang version 18.0.0 (https://github.com/fadlyas07/llvm-project ff294011e17bfab618cd4bccfda490708636db9f)
+
+[llvm-commit]
+https://github.com/fadlyas07/llvm-project/commit/ff294011
+
+[llvm-commit-msg]
+reland! [Version] Simplify clang version
+
+[binutils-ver]
+2.38
+2.38.tar.xz
+
+[host-glibc]
+2.35
+
+[size]
+576M
+
+[shasum]
+eeb022227c4d1524ab6c20aab0049be8e57f8f66c7f61f69995be9551ff51206
