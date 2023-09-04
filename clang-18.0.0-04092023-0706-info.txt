@@ -1,0 +1,23 @@
+[date]
+4 September 2023
+
+[clang-ver]
+greenforce clang version 18.0.0 (https://github.com/greenforce-project/llvm-project d199d6f943e84befe31cffebdc1913a976dcc802)
+
+[llvm-commit]
+https://github.com/greenforce-project/llvm-project/commit/d199d6f9
+
+[llvm-commit-msg]
+Merge remote-tracking branch 'llvm-project/main' into HEAD
+
+[binutils-ver]
+2.41
+
+[host-glibc]
+2.35
+
+[size]
+611M
+
+[shasum]
+8e14da2597e79743031a7100fedd57e9f6bb3cb5f77b066576ba80d6dc8ce50b
