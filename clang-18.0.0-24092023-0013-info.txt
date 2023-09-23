@@ -1,0 +1,23 @@
+[date]
+24 September 2023
+
+[clang-ver]
+greenforce clang version 18.0.0 (https://github.com/llvm/llvm-project.git f22442553b8e0840f2fb5345529172a345cfba7d)
+
+[llvm-commit]
+https://github.com/llvm/llvm-project/commit/f2244255
+
+[llvm-commit-msg]
+[BPF] Check jump and memory offsets to avoid truncation
+
+[binutils-ver]
+2.38
+
+[host-glibc]
+2.35
+
+[size]
+606M
+
+[shasum]
+4da6fc76594bd6a7cba978a02e0adb8677e1999ed0d466c0ebf8b7dea4f3c581
