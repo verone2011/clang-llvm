@@ -1,0 +1,23 @@
+[date]
+1 October 2023
+
+[clang-ver]
+greenforce clang version 18.0.0 (https://github.com/llvm/llvm-project.git 6403287eff71a3d6f6c862346d6ed3f0f000eb70)
+
+[llvm-commit]
+https://github.com/llvm/llvm-project/commit/6403287e
+
+[llvm-commit-msg]
+[Flang] [FlangRT] Introduce FlangRT project as solution to Flang's runtime LLVM integration
+
+[binutils-ver]
+2.38
+
+[host-glibc]
+2.35
+
+[size]
+607M
+
+[shasum]
+5383f7e1b5e2a5db4b887dafdb221e3a330c0f924c8cd4178aafd1e7a325a97f
