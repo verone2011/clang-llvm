@@ -1,23 +1,22 @@
 # Greenforce Clang
 
-To get started with Greenforce clang, you'll need to get familiar with [Building Linux with Clang/LLVM](https://docs.kernel.org/kbuild/llvm.html).
+To get started with Greenforce Clang, you'll need to get familiar with [Building Linux with Clang/LLVM](https://docs.kernel.org/kbuild/llvm.html).
 
-This is how you start initializing the Greenforce clang to your local or server, use a command like this:
+This is how you start initializing the Greenforce Clang to your local or server, use a command like this:
 
 ```bash
 # Create a directory for the source files
-
-$ mkdir -p ~/toolchains/greenforce-clang
+mkdir -p ~/toolchains/greenforce-clang
 ```
 
 Then to download:
 
 ```bash
-$ wget -c (put the links here) -O - | tar -xz -C ~/toolchains/greenforce-clang
+wget -c https://github.com/greenforce-project/clang-llvm/releases/download/03102023/greenforce-clang-18.0.0-03102023-1417.tar.zst -O - | tar -xz -C ~/toolchains/greenforce-clang
 
 ```
 
-Please see clang-18.0.0-01102023-0013-info.txt for more informations regarding the latest build.
+For more information, see clang-18.0.0-03102023-1417-info.txt regarding the majority changes each week.
 
 ## Host compatibility
 
@@ -29,7 +28,7 @@ Make sure you have this toolchain in your `PATH`:
 
 ```bash
 
-export PATH="~/toolchains/greenforce-clang/bin:$PATH"
+export PATH="~/toolchains/greenforce-clang/bin:/usr/bin/core_perl:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin"
 
 ```
 

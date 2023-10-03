@@ -1,0 +1,24 @@
+[date]
+3 October 2023
+
+[clang-ver]
+greenforce clang version 18.0.0 (https://github.com/llvm/llvm-project.git 853e126ce32ac899e6be5d18c632a1814797ca79)
+
+[llvm-commit]
+https://github.com/llvm/llvm-project/commit/853e126c
+
+[llvm-commit-msg]
+[BOLT] Support input binaries that use R_X86_GOTPC64
+
+[binutils-ver]
+2.38
+2.38.tar.xz
+
+[host-glibc]
+2.35
+
+[size]
+
+
+[shasum]
+
