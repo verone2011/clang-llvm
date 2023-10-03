@@ -1,0 +1,24 @@
+[date]
+3 October 2023
+
+[clang-ver]
+greenforce clang version 18.0.0 (https://github.com/llvm/llvm-project.git 4812eecd7106200c0330d6371afbe036f577244a)
+
+[llvm-commit]
+https://github.com/llvm/llvm-project/commit/4812eecd
+
+[llvm-commit-msg]
+[clang-repl] XFAIL new const.cpp test on Windows
+
+[binutils-ver]
+2.38
+2.38.tar.xz
+
+[host-glibc]
+2.35
+
+[size]
+187M
+
+[shasum]
+34e4f5f4316a6611128f6967d658ab6d721dfa889ff1c6fc7cdcfed77dae17c8
