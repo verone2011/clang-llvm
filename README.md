@@ -12,11 +12,11 @@ mkdir -p ~/toolchains/greenforce-clang
 Then to download:
 
 ```bash
-wget -c https://github.com/greenforce-project/clang-llvm/releases/download/03102023/greenforce-clang-18.0.0-03102023-1834.tar.zst -O - | tar -xz -C ~/toolchains/greenforce-clang
+wget -c https://github.com/greenforce-project/clang-llvm/releases/download/04102023/greenforce-clang-18.0.0-04102023-1050.tar.zst -O - | tar -xz -C ~/toolchains/greenforce-clang
 
 ```
 
-For more information, see clang-18.0.0-03102023-1834-info.txt regarding the majority changes each week.
+For more information, see clang-18.0.0-04102023-1050-info.txt regarding the majority changes each week.
 
 ## Host compatibility
 

@@ -1,0 +1,24 @@
+[date]
+4 October 2023
+
+[clang-ver]
+greenforce clang version 18.0.0 (https://github.com/llvm/llvm-project.git 548d67a0393c7bd200e335ada0a3d684750c2697)
+
+[llvm-commit]
+https://github.com/llvm/llvm-project/commit/548d67a0
+
+[llvm-commit-msg]
+[clang][Sema] Fix a bug when instantiating a lambda with requires clause (#65193)
+
+[binutils-ver]
+2.38
+2.38.tar.xz
+
+[host-glibc]
+2.35
+
+[size]
+187M
+
+[shasum]
+1a0e3297334c9e2c6359d18ad8cfcd469197df4e06a2a1f566611f544e9d6f49
